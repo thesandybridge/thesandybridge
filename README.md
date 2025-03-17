@@ -7,13 +7,13 @@ I’m a software engineer specializing in React, focused on building scalable, h
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 769 hrs 24 mins
+Total Time: 772 hrs 57 mins
 
-TypeScript      330 hrs 55 mins ██████████▒░░░░░░░░░░░░░░   41.97 %
-JavaScript      126 hrs 40 mins ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
-Markdown        52 hrs 44 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
-PHP             45 hrs 25 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
-Rust            44 hrs 47 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+TypeScript      333 hrs 26 mins ██████████▓░░░░░░░░░░░░░░   42.10 %
+JavaScript      127 hrs 27 mins ████░░░░░░░░░░░░░░░░░░░░░   16.09 %
+Markdown        52 hrs 44 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+PHP             45 hrs 25 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+Rust            44 hrs 47 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
 ```
 
 <!--END_SECTION:waka-->
