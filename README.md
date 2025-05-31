@@ -1,21 +1,48 @@
 # 🇺🇸 Matt Miller
 
-I’m a software engineer specializing in React, focused on building scalable, high-performance user interfaces. I have a strong track record of delivering high-quality projects, balancing aesthetics with functionality, and optimizing for both user experience and maintainability. With deep problem-solving skills and a pragmatic approach, I thrive in collaborative environments while also excelling in independent work.
+I'm a **Senior Software Engineer** specializing in frontend development with React. My journey in tech has taken me from building custom WordPress solutions (7 years!) to crafting modern web apps and CLI tools with TypeScript and Rust. I thrive at the intersection of frontend and backend, collaborating closely with API engineers to create seamless user experiences.
 
 ---
-### 📊 Stats
-<!--START_SECTION:waka-->
 
-```txt
-Total Time: 697 hrs 13 mins
+## 🛠️ Tech Stack & Tools
 
-TypeScript      268 hrs 42 mins █████████▒░░░░░░░░░░░░░░░   37.57 %
-JavaScript      124 hrs 3 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.34 %
-Markdown        52 hrs 27 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
-PHP             45 hrs 25 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
-Rust            44 hrs 47 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
-```
+- **Frontend:** React, TypeScript, Tanstack Query
+- **Backend Collaboration:** API contracts & design
+- **CLI Development:** Rust
+- **Editor of choice:** Neovim
+- **OS:** MacOS, Arch Linux
+- **Other Experience:** WordPress (7 years)
 
-<!--END_SECTION:waka-->
-<!--![thesandybridge stats-overview](https://raw.githubusercontent.com/thesandybridge/github-stats/master/generated/languages.svg#gh-dark-mode-only)-->
-<!--![thesandybridge github-trophies](https://github-profile-trophy.vercel.app/?username=thesandybridge&theme=tokyonight&no-bg=true&no-frame=true)-->
+---
+
+## 🚀 Favorite Project
+
+### [kb_index](https://github.com/thesandybridge/kb_index)
+A CLI tool that indexes files to ChromaDB using text embedding, enabling powerful cosine similarity queries and LLM-powered response curation.
+*Built with Rust, inspired by a passion for knowledge management and automation.*
+
+---
+
+## 🌱 Philosophy
+
+- **Stoic & Kaizen Practitioner:** Constantly seeking growth, improvement, and resilience.
+- **Team Player:** I enjoy bridging the gap between frontend and backend, ensuring smooth API contracts and developer experience.
+- **Curious Tinkerer:** Always experimenting with new tech, especially in the CLI and networking space.
+
+---
+
+## 👨‍👩‍👦 About Me
+
+- Husband and father to an amazing son
+- Proud pet parent (2 dogs, 2 cats)
+- Hobbies:
+  - 🏌️‍♂️ Golf
+  - 🎮 Gaming
+  - 🌐 Home networking (Unifi fan!)
+
+
+---
+
+> *"The impediment to action advances action. What stands in the way becomes the way."*
+> — Marcus Aurelius
+
