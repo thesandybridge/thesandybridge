@@ -1,17 +1,18 @@
 # 🇺🇸 Matt Miller
 
-I'm a **Senior Software Engineer** specializing in frontend development with React. My journey in tech has taken me from building custom WordPress solutions (7 years!) to crafting modern web apps and CLI tools with TypeScript and Rust. I thrive at the intersection of frontend and backend, collaborating closely with API engineers to create seamless user experiences.
+I'm a **Senior Software Engineer**  specializing in frontend development with React. My journey took me from 7 years of custom WordPress solutions to modern web apps and CLI tools with TypeScript and Rust. I thrive at the intersection of frontend and backend, building seamless experiences and developer tooling.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 - **Frontend:** React, TypeScript, Tanstack Query
-- **Backend Collaboration:** API contracts & design
+- **Backend:** Node.js, C#, API design & contracts
+- **Infrastructure:** Docker, Proxmox, CI/CD optimization
 - **CLI Development:** Rust
-- **Editor of choice:** Neovim
-- **OS:** MacOS, Arch Linux
-- **Other Experience:** WordPress (7 years)
+- **Editor:** Neovim
+- **OS:** Arch Linux, MacOS
+- **Legacy Experience:** WordPress (7 years)
 
 ---
 
@@ -26,7 +27,7 @@ A CLI tool that indexes files to ChromaDB using text embedding, enabling powerfu
 ## 🌱 Philosophy
 
 - **Stoic & Kaizen Practitioner:** Constantly seeking growth, improvement, and resilience.
-- **Team Player:** I enjoy bridging the gap between frontend and backend, ensuring smooth API contracts and developer experience.
+- **Team Player:** I bridge frontend and backend, ensuring robust API contracts and developer experience.
 - **Curious Tinkerer:** Always experimenting with new tech, especially in the CLI and networking space.
 
 ---
@@ -38,7 +39,7 @@ A CLI tool that indexes files to ChromaDB using text embedding, enabling powerfu
 - Hobbies:
   - 🏌️‍♂️ Golf
   - 🎮 Gaming
-  - 🌐 Home networking (Unifi fan!)
+  - 🖥️ Homelab (Proxmox, Docker, Unifi)
 
 
 ---
