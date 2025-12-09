@@ -4,7 +4,7 @@ I'm a **Senior Software Engineer**  specializing in frontend development with Re
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 - **Frontend:** React, TypeScript, Tanstack Query
 - **Backend:** Node.js, C#, API design & contracts
@@ -16,7 +16,7 @@ I'm a **Senior Software Engineer**  specializing in frontend development with Re
 
 ---
 
-## 🚀 Favorite Project
+## Favorite Project
 
 ### [kb_index](https://github.com/thesandybridge/kb_index)
 A CLI tool that indexes files to ChromaDB using text embedding, enabling powerful cosine similarity queries and LLM-powered response curation.
@@ -24,7 +24,7 @@ A CLI tool that indexes files to ChromaDB using text embedding, enabling powerfu
 
 ---
 
-## 🌱 Philosophy
+## Philosophy
 
 - **Stoic & Kaizen Practitioner:** Constantly seeking growth, improvement, and resilience.
 - **Team Player:** I bridge frontend and backend, ensuring robust API contracts and developer experience.
@@ -32,14 +32,14 @@ A CLI tool that indexes files to ChromaDB using text embedding, enabling powerfu
 
 ---
 
-## 👨‍👩‍👦 About Me
+## About me
 
 - Husband and father to an amazing son
 - Proud pet parent (2 dogs, 2 cats)
 - Hobbies:
-  - 🏌️‍♂️ Golf
-  - 🎮 Gaming
-  - 🖥️ Homelab (Proxmox, Docker, Unifi)
+  - Golf
+  - Gaming
+  - Homelab (Proxmox, Docker, Unifi)
 
 
 ---
