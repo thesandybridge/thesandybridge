@@ -1,49 +1,39 @@
-# 🇺🇸 Matt Miller
+```
+ ███████╗ █████╗ ███╗   ██╗██████╗ ██╗   ██╗██████╗ ██████╗ ██╗██████╗  ██████╗ ███████╗
+ ██╔════╝██╔══██╗████╗  ██║██╔══██╗╚██╗ ██╔╝██╔══██╗██╔══██╗██║██╔══██╗██╔════╝ ██╔════╝
+ ███████╗███████║██╔██╗ ██║██║  ██║ ╚████╔╝ ██████╔╝██████╔╝██║██║  ██║██║  ███╗█████╗
+ ╚════██║██╔══██║██║╚██╗██║██║  ██║  ╚██╔╝  ██╔══██╗██╔══██╗██║██║  ██║██║   ██║██╔══╝
+ ███████║██║  ██║██║ ╚████║██████╔╝   ██║   ██████╔╝██║  ██║██║██████╔╝╚██████╔╝███████╗
+ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝    ╚═╝   ╚═════╝ ╚═╝  ╚═╝╚═╝╚═════╝  ╚═════╝ ╚══════╝
+```
 
-I'm a **Senior Software Engineer**  specializing in frontend development with React. My journey took me from 7 years of custom WordPress solutions to modern web apps and CLI tools with TypeScript and Rust. I thrive at the intersection of frontend and backend, building seamless experiences and developer tooling.
+```
+ matt@sandybridge
+ ────────────────
+ role:     senior software engineer
+ stack:    TypeScript, React, Rust
+ tools:    Docker, Proxmox, CI/CD
+ infra:    Railway, Unifi, Homelab
+ editor:   Neovim
+ os:       Arch Linux
+ shell:    bash
+ hobbies:  golf, gaming, homelab
+```
 
----
+Husband and father. Two dogs, two cats. Powered by caffeine and stoic philosophy.
 
-## Tech Stack & Tools
+<details>
+<summary>backstory</summary>
+<br>
 
-- **Frontend:** React, TypeScript, Tanstack Query
-- **Backend:** Node.js, C#, API design & contracts
-- **Infrastructure:** Docker, Proxmox, CI/CD optimization
-- **CLI Development:** Rust
-- **Editor:** Neovim
-- **OS:** Arch Linux, MacOS
-- **Legacy Experience:** WordPress (7 years)
+Started building websites with WordPress in 2014 — spent 7 years deep in that ecosystem doing custom themes, plugins, and client work. Eventually hit the ceiling and made the jump to React and TypeScript. That opened the door to real frontend architecture, API design, and eventually systems-level work with Rust.
 
----
+The name "sandybridge" comes from Intel's Sandy Bridge CPU architecture (2011). Needed an online handle around the same time it launched, and it stuck — games, Discord, GitHub, everywhere since.
 
-## Favorite Project
+Now I spend most of my time in the terminal, building tools and tinkering with infrastructure. The site at [sandybridge.io](https://sandybridge.io) is the living version of all of this.
 
-### [kb_index](https://github.com/thesandybridge/kb_index)
-A CLI tool that indexes files to ChromaDB using text embedding, enabling powerful cosine similarity queries and LLM-powered response curation.
-*Built with Rust, inspired by a passion for knowledge management and automation.*
+</details>
 
----
+[sandybridge.io](https://sandybridge.io)
 
-## Philosophy
-
-- **Stoic & Kaizen Practitioner:** Constantly seeking growth, improvement, and resilience.
-- **Team Player:** I bridge frontend and backend, ensuring robust API contracts and developer experience.
-- **Curious Tinkerer:** Always experimenting with new tech, especially in the CLI and networking space.
-
----
-
-## About me
-
-- Husband and father to an amazing son
-- Proud pet parent (2 dogs, 2 cats)
-- Hobbies:
-  - Golf
-  - Gaming
-  - Homelab (Proxmox, Docker, Unifi)
-
-
----
-
-> *"The impediment to action advances action. What stands in the way becomes the way."*
-> — Marcus Aurelius
-
+> *"The impediment to action advances action. What stands in the way becomes the way."* — Marcus Aurelius
